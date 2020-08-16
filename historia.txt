@@ -1,8 +1,12 @@
 Esta es la historia de Santiago Salgado
 
+<<<<<<< HEAD
 Santiago tiene 27 años
 
 
 Hoy hablaremos de su vida 
 
 De su vida y de su maestria
+=======
+Hablaremos de su vida laboral 
+>>>>>>> cabecera
